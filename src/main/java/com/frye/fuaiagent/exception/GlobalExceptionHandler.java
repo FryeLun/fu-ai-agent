@@ -1,7 +1,7 @@
-package com.frye.aipassagecreator.exception;
+package com.frye.fuaiagent.exception;
 
-import com.frye.aipassagecreator.common.BaseResponse;
-import com.frye.aipassagecreator.common.ResultUtils;
+import com.frye.fuaiagent.common.BaseResponse;
+import com.frye.fuaiagent.common.ResultUtils;
 import io.swagger.v3.oas.annotations.Hidden;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;

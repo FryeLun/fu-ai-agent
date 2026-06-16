@@ -1,4 +1,4 @@
-package com.frye.aipassagecreator.exception;
+package com.frye.fuaiagent.exception;
 
 import lombok.Getter;
 

@@ -1,6 +1,7 @@
-package com.frye.aipassagecreator.common;
+package com.frye.fuaiagent.common;
 
-import com.frye.aipassagecreator.exception.ErrorCode;
+
+import com.frye.fuaiagent.exception.ErrorCode;
 
 /**
  * 快速构造响应结果的工具类

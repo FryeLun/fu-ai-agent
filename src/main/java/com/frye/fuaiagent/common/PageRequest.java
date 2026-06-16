@@ -1,4 +1,4 @@
-package com.frye.aipassagecreator.common;
+package com.frye.fuaiagent.common;
 
 import lombok.Data;
 

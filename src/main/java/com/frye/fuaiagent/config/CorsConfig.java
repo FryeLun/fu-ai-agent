@@ -1,4 +1,4 @@
-package com.frye.aipassagecreator.config;
+package com.frye.fuaiagent.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

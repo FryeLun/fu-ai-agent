@@ -1,6 +1,7 @@
-package com.frye.aipassagecreator.common;
+package com.frye.fuaiagent.common;
 
-import com.frye.aipassagecreator.exception.ErrorCode;
+
+import com.frye.fuaiagent.exception.ErrorCode;
 import lombok.Data;
 
 import java.io.Serializable;
